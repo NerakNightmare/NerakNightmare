@@ -1,8 +1,11 @@
 ![Github](https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif)
 
+<div>
+ 
 # 💫 About Me:
 Computer Engineer 💻<br>Passionate about Artificial Intelligence 🤖<br>Web Development Enthusiast 🖱️
  <img align="right" height="220em" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU4aDRkdmxleTdreGp5OWhnYTlqdGw5aDloam9sbGhkbnI2aXk3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif"/>
+</div>
 
 
 ## 🌐 Socials:
