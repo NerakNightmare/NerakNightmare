@@ -1,11 +1,18 @@
 ![Github](https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif)
 
-<div>
- 
-# 💫 About Me:
-Computer Engineer 💻<br>Passionate about Artificial Intelligence 🤖<br>Web Development Enthusiast 🖱️
+<!-- Me .GIF -->
  <img align="right" height="220em" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU4aDRkdmxleTdreGp5OWhnYTlqdGw5aDloam9sbGhkbnI2aXk3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif"/>
-</div>
+ 
+ <!-- About me -->
+ <div align="center">
+ 💻Computer Engineer  <br><br>
+ 🤖 Passionate about Artificial Intelligence <br><br>
+ 🖱️ Web Development Enthusiast .<br><br>
+ 🐈 Cat Lover <3 <br><br><br>
+ 
+  .::I recommend you to view my profile in dark mode::.<br>
+</div>          
+
 
 
 ## 🌐 Socials:
