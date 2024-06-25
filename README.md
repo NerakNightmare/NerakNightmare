@@ -10,7 +10,7 @@
  🖱️ Web Development Enthusiast .<br><br>
  🐈 Cat Lover <3 <br><br><br>
  
-  .::I recommend you to view my profile in dark mode::.<br>
+<br>
 </div>          
 
 
